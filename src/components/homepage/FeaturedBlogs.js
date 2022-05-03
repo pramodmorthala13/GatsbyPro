@@ -38,7 +38,7 @@ const FeaturedBlogs = () => {
 
   return (
     <FeaturedBlogsStyles>
-      <SectionTitle>Featured Posts on Live Site</SectionTitle>
+      <SectionTitle>Featured Posts on</SectionTitle>
       <ParagraphText>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nequ necessitatibus, vitae autem ratione natu consequatur accusantium quaerat eveniet esse repudiandae non magnam. Saepe consectetur aliquam praesentium atque nemo eius perspiciatis.
       </ParagraphText>
