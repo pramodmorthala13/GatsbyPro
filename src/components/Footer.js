@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="container">
         <Logo />
         <ParagraphText className="footer__text">
-          =>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium
           iusto voluptatibus alias delectus consequatur nulla officiis quod
           dicta corrupti, cumque nesciunt praesentium vero rerum expedita
           possimus! Facere exercitationem obcaecati eveniet?
