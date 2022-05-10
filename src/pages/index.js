@@ -4,6 +4,7 @@ import HeroSection from "../components/homepage/HeroSection";
 import SEO from "../components/SEO";
 
 const IndexPage = () => {
+  
   return (
     <>
       <SEO />

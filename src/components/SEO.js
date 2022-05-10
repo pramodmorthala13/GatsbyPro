@@ -23,6 +23,8 @@ const SEO = ({title,description}) => {
     <Helmet title={seo.title}>
       <title>{seo.title}</title>
       <meta name="description" content={seo.description}/>
+      <script src="https://cdn.jsdelivr.net/gh/PostHog/cookie-banner@main/public/cookiebanner.min.js"></script>
+      <script src="cookieBanner.js"></script>
     </Helmet>
   );
 };
