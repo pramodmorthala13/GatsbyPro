@@ -12,12 +12,12 @@ module.exports = {
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
-          "G-DT43P2KTQE", // Google Analytics / GA
+          "G-TCDP5RW10T", // Google Analytics / GA
         ],
         // This object gets passed directly to the gtag config command
         // This config will be shared across all trackingIds
         gtagConfig: {
-          optimize_id: "GTM-NS3VQFF",
+          optimize_id: "GTM-T8MBJQX",
           anonymize_ip: true,
           cookie_expires: 0,
         },
@@ -53,11 +53,11 @@ module.exports = {
         
       },
     },
-    {
-      resolve: 'gatsby-plugin-load-script',
-      options: {
-        src: '',
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-load-script',
+    //   options: {
+    //     src: '',
+    //   },
+    // },
   ],
 };
